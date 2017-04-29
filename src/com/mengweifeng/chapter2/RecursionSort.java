@@ -1,4 +1,4 @@
-package com.mengweifeng.chapter1;
+package com.mengweifeng.chapter2;
 
 import java.util.Arrays;
 
