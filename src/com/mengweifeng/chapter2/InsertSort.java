@@ -1,4 +1,4 @@
-package com.mengweifeng.chapter1;
+package com.mengweifeng.chapter2;
 
 /**
  * 插入排序练习

@@ -2,10 +2,16 @@ package com.mengweifeng.chapter2;
 
 import java.util.Arrays;
 
+/**
+ * 归并排序
+ * 
+ * @author mwf
+ *
+ */
 public class RecursionSort {
 
 	public static void main(String[] args) {
-		int[] nums = { 234234,11, 122, 31, 344, 5 };
+		int[] nums = { 234234, 11, 122, 31, 344, 5 };
 		nums = sort(nums);
 		for (int i = 0; i < nums.length; i++) {
 			System.out.println(nums[i]);
